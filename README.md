@@ -58,12 +58,12 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Technologies Used
 
-- Python: The core programming language used for data analysis, machine learning, and backend development.
-- Jupyter Notebook: Used for data exploration, model training, and documentation.
-- Flask: A lightweight and powerful web framework for developing the user interface and serving machine learning models.
-- HTML: Used for building the structure of web pages.
-- Bootstrap: A popular CSS framework for creating responsive and visually appealing web designs.
-- JavaScript: Implemented for dynamic interactions and enhanced user experience.
+- **Python:** The core programming language used for data analysis, machine learning, and backend development.
+- **Jupyter Notebook:** Used for data exploration, model training, and documentation.
+- **Flask:** A lightweight and powerful web framework for developing the user interface and serving machine learning models.
+- **HTML:** Used for building the structure of web pages.
+- **Bootstrap:** A popular CSS framework for creating responsive and visually appealing web designs.
+- **JavaScript:** Implemented for dynamic interactions and enhanced user experience.
 
 ## License
 
