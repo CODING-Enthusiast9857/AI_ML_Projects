@@ -73,7 +73,7 @@ This project is licensed under the MIT License.
 ## Created by
 Created with &#129293; by <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane.</a>
 
-<b>Follow <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane</a> for more such contents. 
+<b>Follow <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Me</a> for more such contents. 
 <br> 🇹​​​​​🇭​​​​​🇦​​​​​🇳​​​​​🇰​​​​​ 🇾​​​​​🇴​​​​​🇺​​​​​ for visiting...!!</b> 
 <br>
 
