@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-green)
 ![GitHub](https://img.shields.io/github/license/CODING-Enthusiast9857/MachineLearningProjects)
+![GitHub Logo](https://github.com/CODING-Enthusiast9857/MachineLearningProjects/blob/main/Iris%20~%20Classification/iris1.jpg)
 
 This repository contains a machine learning project that analyzes the famous Iris dataset. The Iris dataset is a popular dataset in the field of machine learning and is often used for classification tasks.
 
